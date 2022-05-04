@@ -1,2 +1,2 @@
 # think_cell_recrument_task
-think-cell recruitment_task
+My solution to the think-cell interview problem. It's wrong (it didn't pass the tests), but I have no idea what's wrong with my solution, it seems that everything should be fulfilled according to the conditions. I hope this well-commented and test-covered code will help someone. If someone finds mistake in my solution - send me email to luciusomen.ep@gmail.com - I will correct it and post this version. (The company itself really pisses me off, they don't treat job seekers well).
