@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "../just-thinking/interval_map.h"
+#include "interval_map.h"
 
 
 
